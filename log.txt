@@ -1,0 +1,36 @@
+FRANK - CONTRIBUTOR
+Carloss-Air:videogamedawg frankruiz$ git log 
+commit de669bb66a5049c01084d5181858ccaf8c2843c6 (HEAD -> master, origin/master, origin/HEAD)
+Author: Frank Ruiz <sanreynaldo@gmail.com>
+Date:   Wed Dec 13 13:19:12 2017 -0500
+
+    Cool.txt
+
+commit b5470271f1fb6ced61086e0743e5729c0a52435a
+Author: Donato Manzione <donato.manzione90@gmail.com>
+Date:   Tue Dec 12 12:33:54 2017 -0500
+
+    README.md
+
+commit a601859b7698ef3a04d5823fb2fce521739f2155
+Author: Chris Carrillo <chrisjcarrillo@hotmail.com>
+Date:   Tue Dec 12 12:24:57 2017 -0500
+
+    SOCCER 5V5 VIDEOGAME
+Carloss-Air:videogamedawg frankruiz$ 
+
+CHRIS - MASTER
+chrisjcarrillo:videogame chrisjcarrillo$ git pull
+remote: Counting objects: 6, done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0
+Unpacking objects: 100% (6/6), done.
+From https://github.com/chrisjcarrillo/videogamedawg
+ * branch            master     -> FETCH_HEAD
+Updating a601859..de669bb
+Fast-forward
+ README.md | 5 +++++
+ cool.txt  | 0
+ 2 files changed, 5 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 cool.txt
